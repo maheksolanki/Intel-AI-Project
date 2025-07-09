@@ -1,7 +1,4 @@
 # Flavi Skill Sync-Up – Bridging the Gap Between Skills and Job Roles
-
-🔗 **Live Preview:** [https://preview--flavi-skill-sync-up.lovable.app/](https://preview--flavi-skill-sync-up.lovable.app/)
-
 ---
 
 ## 📘 Project Overview
