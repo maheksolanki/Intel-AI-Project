@@ -55,3 +55,32 @@ npm install
 
 # 4. Start the development server
 npm run dev
+
+## 📊 Features
+
+- 📋 Map job roles with operator skill levels
+- 🔍 Search and filter operators by skill set
+- 🧠 Smart UI for skill mismatch detection
+- 🧩 Modern responsive design using ShadCN and Tailwind CSS
+- ⚡ Fast development & loading with Vite bundler
+- ☁️ Deployable on platforms like Lovable, Vercel, or Netlify
+
+---
+
+## 👥 Team & Contribution
+
+This project was developed as part of the **AI for Manufacturing** course group project.
+
+| Team Members         |
+|----------------------|
+| Mahek Solanki        |
+| Vishwa Pandya        |
+| Ankita Gohil         |
+| Urvashi Baraiya      |
+| Jignasha Degda       |
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+You are free to use, modify, and distribute this software with proper attribution.
+
